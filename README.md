@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sabafaij/Leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+## String
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sabafaij/Leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sabafaij/Leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->

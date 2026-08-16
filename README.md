@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0039-combination-sum) |
 | [0213-house-robber-ii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0213-house-robber-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0039-combination-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->

@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [0567-permutation-in-string](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sabafaij/Leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Divide and Conquer
@@ -48,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sabafaij/Leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sabafaij/Leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0031-next-permutation) |
+| [0567-permutation-in-string](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 ## Queue
 |  |
 | ------- |

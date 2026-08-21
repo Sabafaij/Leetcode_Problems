@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0213-house-robber-ii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0443-string-compression) |

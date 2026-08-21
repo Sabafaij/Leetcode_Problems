@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0041-first-missing-positive) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0213-house-robber-ii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |

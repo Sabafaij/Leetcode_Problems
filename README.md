@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0263-ugly-number](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0263-ugly-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0989-add-to-array-form-of-integer) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sabafaij/Leetcode_Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Backtracking
 |  |
 | ------- |

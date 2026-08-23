@@ -40,11 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0049-group-anagrams) |
+| [0295-find-median-from-data-stream](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0295-find-median-from-data-stream](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 ## Queue
@@ -154,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0289-game-of-life) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->

@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0213-house-robber-ii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0213-house-robber-ii) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -165,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
+## Graph Coloring
+|  |
+| ------- |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 <!---LeetCode Topics End-->

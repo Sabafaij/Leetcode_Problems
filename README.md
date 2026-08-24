@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0289-game-of-life](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0989-add-to-array-form-of-integer) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Dynamic Programming
@@ -44,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0295-find-median-from-data-stream](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Binary Tree
 |  |
 | ------- |
@@ -156,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0289-game-of-life) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |

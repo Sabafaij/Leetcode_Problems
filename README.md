@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0213-house-robber-ii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0213-house-robber-ii) |
+| [0392-is-subsequence](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Hash Table
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
+| [0392-is-subsequence](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0567-permutation-in-string) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
+| [0392-is-subsequence](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 ## Queue

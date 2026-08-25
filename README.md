@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0072-edit-distance) |
 | [0213-house-robber-ii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
 | [0392-is-subsequence](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |

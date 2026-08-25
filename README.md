@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0494-target-sum](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0523-continuous-subarray-sum) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0989-add-to-array-form-of-integer) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0072-edit-distance) |
 | [0213-house-robber-ii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0494-target-sum) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Hash Table
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0494-target-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -205,4 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0090-subsets-ii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->

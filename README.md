@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0523-continuous-subarray-sum) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0989-add-to-array-form-of-integer) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Sabafaij/Leetcode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sabafaij/Leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Sabafaij/Leetcode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
 | ------- |

@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0494-target-sum) |
+| [1143-longest-common-subsequence](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1143-longest-common-subsequence) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1406-stone-game-iii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0567-permutation-in-string) |
+| [1143-longest-common-subsequence](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1143-longest-common-subsequence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sabafaij/Leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -235,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1406-stone-game-iii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->

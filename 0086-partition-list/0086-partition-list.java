@@ -17,17 +17,17 @@ class Solution {
         ListNode curr_r=right;
         while(curr!=null){
             if(curr.val<x){
-                ListNode temp=new ListNode(curr.val);
-                curr_l.next=temp;
-                curr_l=temp;
+                
+                curr_l.next=curr;
+                curr_l=curr;
             }
             else{
-                ListNode temp=new ListNode(curr.val);
-                curr_r.next=temp;
-                curr_r=temp;
+                curr_r.next=curr;
+                curr_r=curr;
             }
             curr=curr.next;
         }
+        curr_r.next=null;
         curr_l.next=right.next;
         return left.next;
     }

@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0166-fraction-to-recurring-decimal) |
+| [0202-happy-number](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0166-fraction-to-recurring-decimal) |
+| [0202-happy-number](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0263-ugly-number) |
 | [0523-continuous-subarray-sum](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0523-continuous-subarray-sum) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0989-add-to-array-form-of-integer) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0031-next-permutation) |
 | [0086-partition-list](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0086-partition-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0443-string-compression) |
@@ -268,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

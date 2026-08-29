@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0091-decode-ways) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0231-power-of-two) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0289-game-of-life) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Design
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0231-power-of-two) |

@@ -2,22 +2,20 @@ class Solution {
     public void nextPermutation(int[] nums) {
         int idx=-1;
         for(int i=nums.length-1;i>0;i--){
-            if(nums[i-1]<nums[i]){
+            if(nums[i]>nums[i-1]){
                 idx=i-1;
                 break;
             }
         }
-        
         if(idx!=-1){
-            for(int j=nums.length-1;j>idx;j--){
-                if(nums[j]>nums[idx]){
-                    swap(nums,idx,j);
+            for(int i=nums.length-1;i>idx;i--){
+                if(nums[idx]<nums[i]){
+                    swap(nums,idx,i);
                     break;
                 }
             }
-           
         }
-       reverse(nums,idx+1);
+        reverse(nums,idx+1);
     }
     public void swap(int [] arr,int i, int j){
         int temp=arr[i];

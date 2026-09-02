@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0090-subsets-ii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0202-happy-number) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0289-game-of-life](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Simulation

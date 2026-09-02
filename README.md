@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0090-subsets-ii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0091-decode-ways) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 ## Sorting

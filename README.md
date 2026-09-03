@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0523-continuous-subarray-sum) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1406-stone-game-iii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1406-stone-game-iii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Tree
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0289-game-of-life](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |

@@ -14,8 +14,8 @@ class Solution {
         return;
        }
        temp.add(nums[i]);
-        candidate(target-nums[i],nums,ans,temp,i);
-        temp.remove(temp.size()-1);
-        candidate(target,nums,ans,temp,i+1);
+       candidate(target-nums[i],nums,ans,temp,i);
+       temp.remove(temp.size()-1);
+       candidate(target,nums,ans,temp,i+1);
     }
 }

@@ -10,15 +10,10 @@
  */
 class Solution {
     public int getDecimalValue(ListNode head) {
-        Stack<Integer> stk=new Stack<>();
-        while(head!=null){
-            stk.push(head.val);
-            head=head.next;
-        }
         int ans=0;
-        int pwr=0;
-        while(!stk.isEmpty()){
-            ans+=stk.pop()*Math.pow(2,pwr++);
+        while(head!=null){
+            ans=ans*2+head.val;
+            head=head.next;
         }
         return ans;
     }

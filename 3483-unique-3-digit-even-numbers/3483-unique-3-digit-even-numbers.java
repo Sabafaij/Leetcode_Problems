@@ -14,9 +14,7 @@ class Solution {
                 map[j]--;
                 for(int k=0;k<=8;k+=2){
                     if(map[k]==0) continue;
-                    map[k]--;
                     set.add(i*100+j*10+k);
-                    map[k]++;
                 }
                 map[j]++;
             }

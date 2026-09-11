@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0523-continuous-subarray-sum) |
 | [0781-rabbits-in-forest](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0781-rabbits-in-forest) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0989-add-to-array-form-of-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1406-stone-game-iii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1406-stone-game-iii) |
 | [1641-count-sorted-vowel-strings](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1641-count-sorted-vowel-strings) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0086-partition-list) |
 | [0445-add-two-numbers-ii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1019-next-greater-node-in-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |

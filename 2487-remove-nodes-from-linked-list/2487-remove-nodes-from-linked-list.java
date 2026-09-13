@@ -19,21 +19,13 @@ class Solution {
             stk.push(curr);
             curr=curr.next;
         }
-        ListNode ans=new ListNode(0);
-        curr=ans;
-        while(!stk.isEmpty()){
-            curr.next=stk.pop();
-            curr=curr.next;
+        ListNode ans=null;
+        while(!stk.isEmpty()) {
+            curr = stk.pop();
+            curr.next = ans;
+            ans = curr;
         }
-        curr.next=null;
-        curr=ans.next;
-        ListNode prev=null;
-        while(curr!=null){
-            ListNode currnode=curr.next;
-            curr.next=prev;
-            prev=curr;
-            curr=currnode;
-        }
-        return prev;
+
+        return ans;
     }
 }

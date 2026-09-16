@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0090-subsets-ii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0090-subsets-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0091-decode-ways) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0781-rabbits-in-forest](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0781-rabbits-in-forest) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |

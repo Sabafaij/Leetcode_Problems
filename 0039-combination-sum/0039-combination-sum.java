@@ -6,7 +6,7 @@ class Solution {
         return ans;
     }
     private void candidate(int target,int[] nums,List<List<Integer>> ans,List<Integer> temp,int i){
-       if(target<0 || i==nums.length){
+       if(target <0 || i==nums.length){
         return;
        }
        if(target==0){

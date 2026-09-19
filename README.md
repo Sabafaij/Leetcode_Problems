@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0456-132-pattern](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0456-132-pattern) |
 | [0494-target-sum](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0523-continuous-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0456-132-pattern](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0456-132-pattern) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -379,12 +381,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0445-add-two-numbers-ii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0456-132-pattern) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
+| [0456-132-pattern](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0456-132-pattern) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Enumeration
@@ -393,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1291-sequential-digits) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sabafaij/Leetcode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->

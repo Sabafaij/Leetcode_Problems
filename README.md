@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0076-minimum-window-substring) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0067-add-binary) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0066-plus-one) |

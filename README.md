@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0066-plus-one) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0136-single-number) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
 ## Linked List
 |  |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0445-add-two-numbers-ii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0456-132-pattern) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1019-next-greater-node-in-linked-list) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0456-132-pattern) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2487-remove-nodes-from-linked-list) |

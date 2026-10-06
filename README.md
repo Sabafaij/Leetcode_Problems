@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0781-rabbits-in-forest](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0781-rabbits-in-forest) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Longest Increasing Subsequence
 |  |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

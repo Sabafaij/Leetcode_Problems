@@ -4,7 +4,7 @@ class Solution {
         int n=mat[0].length-1;
         int low=0;
         int high=m;
-        int row=0;
+        int row=-1;
         while(low<=high){
             int mid=low+(high-low)/2;
             if(mat[mid][n]>target){
@@ -18,6 +18,7 @@ class Solution {
                 return true;
             }
         }
+        if(row==-1) return false;
         low=0;
         high=n;
         while(low<=high){

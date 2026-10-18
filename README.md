@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |

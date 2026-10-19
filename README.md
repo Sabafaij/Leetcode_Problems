@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1406-stone-game-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1920-build-array-from-permutation](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1920-build-array-from-permutation) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2094-finding-3-digit-even-numbers) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3467-transform-array-by-parity](https://github.com/Sabafaij/Leetcode_Problems/tree/master/3467-transform-array-by-parity) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Tree
 |  |

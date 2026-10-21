@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0263-ugly-number) |
 | [0343-integer-break](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0343-integer-break) |
+| [0371-sum-of-two-integers](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0371-sum-of-two-integers) |
 | [0445-add-two-numbers-ii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0523-continuous-subarray-sum) |
 | [0781-rabbits-in-forest](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0781-rabbits-in-forest) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0371-sum-of-two-integers) |
 ## Knapsack Problem
 |  |
 | ------- |

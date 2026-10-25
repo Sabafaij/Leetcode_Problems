@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1406-stone-game-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1920-build-array-from-permutation](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1920-build-array-from-permutation) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0456-132-pattern) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1019-next-greater-node-in-linked-list) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Enumeration
 |  |

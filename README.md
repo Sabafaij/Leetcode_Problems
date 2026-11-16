@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sabafaij/Leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sabafaij/Leetcode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1920-build-array-from-permutation) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sabafaij/Leetcode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Design
 |  |

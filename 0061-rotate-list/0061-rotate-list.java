@@ -30,6 +30,5 @@ class Solution {
         curr.next=null;
         tail.next=head;
         return newhead;
-        
     }
 }

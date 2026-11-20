@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -590,4 +593,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sabafaij/Leetcode_Problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

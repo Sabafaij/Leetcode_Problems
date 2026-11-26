@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1641-count-sorted-vowel-strings](https://github.com/Sabafaij/Leetcode_Problems/tree/master/1641-count-sorted-vowel-strings) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2965-find-missing-and-repeated-values) |
+| [3360-stone-removal-game](https://github.com/Sabafaij/Leetcode_Problems/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Sabafaij/Leetcode_Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sabafaij/Leetcode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sabafaij/Leetcode_Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Sabafaij/Leetcode_Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/Sabafaij/Leetcode_Problems/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sabafaij/Leetcode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Design
 |  |
